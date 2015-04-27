@@ -1,0 +1,45 @@
+html {
+    max-width: 1024px;
+    max-height: 885px;
+}
+body {
+    font: 300 16px/200% "Verdana", sans-serif;
+    color: #666;
+}
+/*Page Header*/
+h1 {
+    font-size: 48px;
+    color: #666;
+    text-align: center;
+    padding-top: 25px;
+    margin-bottom: 15px;
+}
+/*Left Column - Mug Image and Main Features Box*/
+img {
+    margin: 15px 0 20px 0;
+}
+
+h2 {
+    color: #f07c17;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0 0 30px 0;
+}
+.main-features-box {
+    border: 1px solid #ccc;
+    margin: 30px 0 15px 0;
+    padding: 30px 0 30px 30px;
+}
+ul {
+    margin-top: 30px;
+    padding: 0 40px 0 40px;
+}
+/*Right Column - Header and Main Copy for Page*/
+.main-copy {
+    padding: 0 0 0 15px;
+    margin: 15px 0 0 0;
+}
+p {
+    margin: 0 0 10px 0;
+    padding: 0 12px 0 0;
+}

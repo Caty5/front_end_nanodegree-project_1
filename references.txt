@@ -1,0 +1,11 @@
+Resources Used for Project 1
+
+1.) W3 Schools reference material on CSS, including pages on box model, padding, margin - http://www.w3schools.com/cssref/default.asp
+2.) Boostrap CSS documentation - http://getbootstrap.com/css/
+3.) Tutorial Republic Page on Bootstrap Typography - http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php
+4.) Shay Howe Lesson on the Box Model - http://learn.shayhowe.com/html-css/opening-the-box-model/
+5.) Stack Overflow post "When to use margin vs padding in CSS" - http://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css
+6.) Stack Overflow post on why to use margin for positioning instead of "position:relatvive" - http://stackoverflow.com/questions/16050924/why-not-use-margin-positioning-instead-of-using-positionrelative-top-5px
+7.) Smashing Magazine article on designing with grid-based approach -http://www.smashingmagazine.com/2007/04/14/designing-with-grid-based-approach/
+8.) CSS Tricks page on ems unit - http://css-tricks.com/why-ems/
+9.) Piazza - I referenced every single post in the Piazza Forum that was tagged as P1. That was a very helpful resource.
